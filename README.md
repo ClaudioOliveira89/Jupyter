@@ -1,8 +1,17 @@
-Repository created for programming and development in the Python language and use of Jupyter Notebook.
+## Jupyter Notebooks for Data Science and Interactive Learning
 
-![JupyterNotbook](https://img.shields.io/badge/Jupyter-fa5711?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/python-1e3cde?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=25fafe)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=25fafe)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=25fafe)
+![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
+![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
+![Plotly](https://img.shields.io/badge/plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=25fafe)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
 
-Repository focused on Data Sciences, utilizing a range of robust libraries including NumPy, Pandas, Matplotlib, Seaborn, PyTorch, SciPy, and Scikit-learn. Proficient in data manipulation, statistical analysis, and machine learning techniques, covering various analytics aspects: Descriptive, Diagnostic, Prescriptive, Predictive, and Exploratory.
+---
 
-Repositório focado em Ciência de Dados, utilizando uma variedade de bibliotecas robustas, incluindo NumPy, Pandas, Matplotlib, Seaborn, PyTorch, SciPy e Scikit-learn. Proficiente em manipulação de dados, análise estatística e técnicas de aprendizado de máquina, abrangendo diversos aspectos de análise: Descritiva, Diagnóstica, Prescritiva, Preditiva e Exploratória
+This repository was created for academic purposes to document my learning journey using Jupyter Notebooks — a powerful, flexible, and interactive computing environment widely used in data science, machine learning, and scientific computing. The main goal is to gradually explore and consolidate concepts through practical notebooks, including data manipulation, visualization, statistical analysis, and reproducible research. This space serves as a base for annotated experiments, code documentation, personal study notes, and small projects across various domains of programming, analysis, and data exploration.
+
+---
+
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado utilizando Jupyter Notebooks — um ambiente de computação interativo, flexível e poderoso, amplamente utilizado em ciência de dados, aprendizado de máquina e computação científica. O objetivo principal é explorar e consolidar conceitos de forma prática por meio de notebooks anotados, incluindo manipulação de dados, visualização, análise estatística e estudos reprodutíveis. Este espaço serve como base para experimentos, anotações, estudos pessoais e pequenos projetos em diversas áreas de programação, análise e exploração de dados.

@@ -8,6 +8,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
 ![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
 ![Plotly](https://img.shields.io/badge/plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=25fafe)
+![SciPy](https://img.shields.io/badge/SciPy-0d1117?style=for-the-badge&logo=scipy&logoColor=25fafe)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=25fafe)
 
 ---

@@ -3,6 +3,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=25fafe)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=25fafe)
 ![Anaconda](https://img.shields.io/badge/Anaconda-0d1117?style=for-the-badge&logo=anaconda&logoColor=25fafe)
+![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=25fafe)
 ![Pandas](https://img.shields.io/badge/pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=25fafe)
 ![NumPy](https://img.shields.io/badge/numpy-0d1117?style=for-the-badge&logo=numpy&logoColor=25fafe)
 ![Plotly](https://img.shields.io/badge/plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=25fafe)
